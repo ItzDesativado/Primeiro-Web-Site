@@ -1,0 +1,10 @@
+body,
+html{
+	margin:  0; 
+	padding: 0;
+	font-size:18px;
+}
+body{
+	background:#ccc url(Pagina_error.gif) center top no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
