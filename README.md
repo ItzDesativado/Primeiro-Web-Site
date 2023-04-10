@@ -3,5 +3,6 @@
  e espaçamentos estão muito mal feitos, mas ainda estou no inicio, e com o tempo
 vou melhorando o projecto, pois meu objectivo é deixar 
 o site bonito e apresentavel para o mercado de 
-trabalho proficional.
+trabalho profissional.
+
 
